@@ -1,0 +1,25 @@
+File name	File path	File	Children
+correct	incorrect	empty	not made
+incorrect	incorrect	empty	not made
+correct	correct	with not fully required fields	made
+incorrect	correct	empty	made
+incorrect	incorrect	with all required fields	not made
+correct	incorrect	with not fully required fields	not made
+incorrect	correct	with all required fields	not made
+incorrect	incorrect	empty	made
+correct	correct	with all required fields	made
+correct	correct	with not fully required fields	not made
+correct	incorrect	empty	made
+correct	correct	empty	not made
+correct	incorrect	with all required fields	made
+incorrect	correct	empty	not made
+correct	incorrect	with all required fields	not made
+correct	correct	empty	made
+incorrect	incorrect	with all required fields	made
+incorrect	correct	with all required fields	made
+correct	correct	with all required fields	not made
+incorrect	correct	with not fully required fields	made
+correct	incorrect	with not fully required fields	made
+incorrect	correct	with not fully required fields	not made
+incorrect	incorrect	with not fully required fields	not made
+incorrect	incorrect	with not fully required fields	made
